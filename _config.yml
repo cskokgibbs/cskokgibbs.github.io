@@ -7,14 +7,19 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+title                    : "Claudia Skok Gibbs"
+title_separator          : " "
+name                     : &name "Claudia Skok Gibbs"
+description              : &description "I am currently a PhD student at the NYU Center for Data Science, advised
+                                         by Kyunghyun Cho and Richard Bonneau. I develop Machine Learning algorithms
+                                         to predict gene regulatory networks from genome-wide sequencing data.
+                                         Prior to starting my PhD, I worked as a research analyst in the Center for
+                                         Computational Biology at the Simon's Foundation's Flatiron Institute.
+                                         I hold a Bachelors of Science in Mathematics from the University of Miami."
+url                      : https://cskokgibbs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : csg.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -57,7 +62,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : cskokgibbs &twitter
 facebook:
   username               :
   app_id                 :
