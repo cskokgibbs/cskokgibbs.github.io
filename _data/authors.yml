@@ -4,10 +4,6 @@ Name Name:
   name        : "Claudia Skok Gibbs"
   uri         : "https://cskokgibbs.github.io/"
   email       : "csg337@nyu.edu"
-  bio         : "I am currently a PhD student at the NYU Center for Data Science, advised by Kyunghyun Cho
-                 and Richard Bonneau. I develop Machine Learning algorithms to predict gene regulatory networks
-                 from genome-wide sequencing data. Prior to starting my PhD, I worked as a research analyst in the
-                 Center for Computational Biology at the Simon's Foundation's Flatiron Institute. I hold a Bachelors
-                 of Science in Mathematics from the University of Miami."
+  bio         : ""
   avatar      : "csg.jpg"
   twitter     : "cskokgibbs"
