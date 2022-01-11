@@ -9,13 +9,8 @@
 locale                   : "en-US"
 title                    : "Claudia Skok Gibbs"
 title_separator          : " "
-name                     : &name "Claudia Skok Gibbs"
-description              : &description "I am currently a PhD student at the NYU Center for Data Science, advised
-                                         by Kyunghyun Cho and Richard Bonneau. I develop Machine Learning algorithms
-                                         to predict gene regulatory networks from genome-wide sequencing data.
-                                         Prior to starting my PhD, I worked as a research analyst in the Center for
-                                         Computational Biology at the Simon's Foundation's Flatiron Institute.
-                                         I hold a Bachelors of Science in Mathematics from the University of Miami."
+name                     : "Claudia Skok Gibbs"
+description              : ""
 url                      : https://cskokgibbs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -62,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : cskokgibbs &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -85,15 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Claudia Skok Gibbs"
+  avatar           : "csg.jpg"
+  bio              : "PhD student at the NYU Center for Data Science"
+  location         : "New York"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=yGdhMZ8AAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -101,20 +95,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/cskokgibbs"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-6360-6128"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "cskokgibbs"
   vine             :
   weibo            :
   xing             :
@@ -177,7 +171,7 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
+"""
 # Collections
 collections:
   teaching:
@@ -192,8 +186,8 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
-
+"""
+"""
 # Defaults
 defaults:
   # _posts
@@ -249,6 +243,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+"""
 
 # Sass/SCSS
 sass:
