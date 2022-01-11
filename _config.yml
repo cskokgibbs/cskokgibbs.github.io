@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "cskokgibbs"
 facebook:
   username               :
   app_id                 :
@@ -171,22 +171,22 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
+"""
 # Collections
-#collections:
-#  teaching:
-#    output: true
-#    permalink: /:collection/:path/
-#  publications:
-#    output: true
-#    permalink: /:collection/:path/
-#  portfolio:
-#    output: true
-#    permalink: /:collection/:path/
-#  talks:
-#    output: true
-#    permalink: /:collection/:path/
-
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+"""
 
 # Defaults
 defaults:
