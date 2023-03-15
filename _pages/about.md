@@ -16,7 +16,18 @@ Foundation's Flatiron Institute. I hold a Bachelors of Science in Mathematics fr
 # Publications
 
 Skok Gibbs, C. et al. High performance single-cell gene regulatory network inference at scale: The Inferelator 3.0. 
-bioRxiv (2021). https://doi.org/10.1101/2021.05.03.442499 
-[[Paper](https://www.biorxiv.org/content/10.1101/2021.05.03.442499v3.full) | 
+Bioinformatics (2022). https://doi.org/10.1093/bioinformatics/btac117
+[[Paper](https://doi.org/10.1101/2022.09.09.507305) | 
 [Code](https://github.com/flatironinstitute/inferelator)]
+
+Özel, MN; Skok Gibbs, C, et al. Coordinated control of neuronal differentiation and wiring by a sustained code of transcription factors. 
+Science (2022), DOI: 10.1126/science.add1884
+[[Paper](https://www.science.org/doi/10.1126/science.add1884) | 
+[Code](https://github.com/cskokgibbs/DMOLN_NetworkScripts)]
+
+Skok Gibbs, C; Mahmood, O; Bonneau, R; Cho, K.
+Probabilistic Matrix Factorization for Gene Regulatory Network Inference. 
+bioRxiv (2022), https://doi.org/10.1101/2022.09.09.507305
+[[Paper](https://doi.org/10.1101/2022.09.09.507305) | 
+[Code](https://github.com/nyu-dl/pmf-grn)]
 
