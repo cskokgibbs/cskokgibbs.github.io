@@ -1,13 +1,12 @@
 ---
-permalink: /cv/
+layout: archive
 title: "CV"
+expert: "CV"
+permalink: /cv/
 author_profile: true
-redirect_from: 
-  - /cv/
-  - /cv.html
+redirect_from:
+  - /resume
 ---
-
-{% include base_path %}
 
 Education
 ======

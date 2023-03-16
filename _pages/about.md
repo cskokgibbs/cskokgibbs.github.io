@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Claudia. I am a second year PhD student at the NYU Center for Data Science, co-advised by 
+Hi there! My name is Claudia. I am a second year PhD student at NYU's Center for Data Science, co-advised by 
 Kyunghyun Cho and Richard Bonneau. I work on developing algorithms to infer gene regulatory networks from genome-wide 
 sequencing data. 
 
