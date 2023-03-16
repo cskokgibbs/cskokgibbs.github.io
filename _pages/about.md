@@ -12,7 +12,7 @@ Hi there! My name is Claudia. I am a second year PhD student at the NYU Center f
 Kyunghyun Cho and Richard Bonneau. I work on developing algorithms to infer gene regulatory networks from genome-wide 
 sequencing data. 
 
-Prior to starting my PhD, I worked as a research analyst in the Center for Computational Biology at the Simon's 
+Prior to starting my PhD, I worked as a research analyst in the Center for Computational Biology at the Simons 
 Foundation's Flatiron Institute from 2018 to 2021. I hold a Bachelors of Science in Mathematics from the University of Miami.
 
 My hobbies include training for marathons, cooking, photography, traveling and reading.
