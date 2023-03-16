@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student at the NYU Center for Data Science, advised by Kyunghyun Cho and Richard Bonneau. 
-I develop Machine Learning algorithms to predict gene regulatory networks from genome-wide sequencing data.
+I am a second year PhD student at the NYU Center for Data Science, co-advised by Kyunghyun Cho and Richard Bonneau. 
+I work on developing algorithms to infer gene regulatory networks from genome-wide sequencing data.
+
 Prior to starting my PhD, I worked as a research analyst in the Center for Computational Biology at the Simon's 
-Foundation's Flatiron Institute. I hold a Bachelors of Science in Mathematics from the University of Miami.
+Foundation's Flatiron Institute from 2018 to 2021. I hold a Bachelors of Science in Mathematics from the University of Miami.
 
 # Publications
 
@@ -32,3 +33,8 @@ bioRxiv (2022), https://doi.org/10.1101/2022.09.09.507305
 [[Paper](https://doi.org/10.1101/2022.09.09.507305) | 
 [Code](https://github.com/nyu-dl/pmf-grn)]
 
+# Awards
+Winter Q-Bio 2020 Best Poster Award
+
+# Volunteer
+Co-organizer for NYU AI School 2023
