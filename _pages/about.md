@@ -39,5 +39,5 @@ bioRxiv (2022), https://doi.org/10.1101/2022.09.09.507305
 # Awards
 Winter Q-Bio 2020 Best Poster Award
 
-# Volunteer
+# Volunteering
 Co-organizer for NYU AI School 2023
