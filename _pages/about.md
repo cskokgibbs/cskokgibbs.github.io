@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm a forth year PhD student at NYU's Center for Data Science, co-advised by 
+Hi there! I'm a fourth year PhD student at NYU's Center for Data Science, co-advised by 
 Kyunghyun Cho and Richard Bonneau. My research focuses on developing algorithms to infer gene regulatory networks from genome-wide 
 sequencing data. My current work uses a variational inference approach to GRN inference by leveraging probabilistic matrix factorization.
 My research is supported by the National Science Foundation Graduate Research Fellowship Program (NSF-GRFP).
