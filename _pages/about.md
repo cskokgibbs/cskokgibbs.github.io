@@ -21,8 +21,8 @@ Outside of research, I enjoy training for marathons, cooking, photography, trave
 Kim, JH; Skok Gibbs, C; Yun, S; Song, HO; Cho, K. 
 Targeted Cause Discovery with Data-Driven Learning.
 arXiv (2024)
-[[Paper] (https://arxiv.org/pdf/2408.16218) |
- [Code] (https://github.com/snu-mllab/Targeted-Cause-Discovery)]
+[[Paper](https://arxiv.org/pdf/2408.16218) |
+ [Code](https://github.com/snu-mllab/Targeted-Cause-Discovery)]
 
 Skok Gibbs, C; Mahmood, O; Bonneau, R; Cho, K.
 Probabilistic Matrix Factorization for Gene Regulatory Network Inference. 
@@ -42,13 +42,15 @@ Bioinformatics (2022). https://doi.org/10.1093/bioinformatics/btac117
 [Code](https://github.com/flatironinstitute/inferelator)]
 
 # Awards
-NSF Graduate Research Fellowship Program Recipient (2023-2026)
-ICML Computational Biology Workshop Best Poster Award (2023)
-Winter Q-Bio Best Poster Award (2020)
+NSF Graduate Research Fellowship Program Recipient (2023-2026).
+
+ICML Computational Biology Workshop Best Poster Award (2023).
+
+Winter Q-Bio Best Poster Award (2020).
 
 # Interviews
 Nature Technology Feature: Smart sofware untangles gene regulation in cells (2022)
-[[Link] (https://doi.org/10.1038/d41586-022-02826-1)]
+[[Link](https://doi.org/10.1038/d41586-022-02826-1)]
 
 # Teaching
 NYU Center for Data Science Teaching Assistant: Practical Training (2022, 2023, 2024)
