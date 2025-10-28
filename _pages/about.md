@@ -10,11 +10,13 @@ redirect_from:
 
 Hi there! I'm a fifth year Ph.D. candidate at NYU's Center for Data Science, co-advised by Kyunghyun Cho and Richard Bonneau. 
 My research focuses on developing algorithms to infer gene regulatory networks from genome-wide sequencing data. 
+
 During my Ph.D., I developed PMF-GRN, a variational inference framework for single-cell gene regulatory network inference.
 This approach uses probabilistic matrix factorization to model the latent activity of transcription factors and their regulatory connections to target genes across cells.
 By framing this problem probabilistically, PMF-GRN supports principled model selection by directly comparing generative models and hyperparameters during training,
 as well as producing uncertainty estimates for interpreting the model's confidence in each predicted interaction.
-I have also developed GLM-Prior, a genomic language model that predicts TF-gene regulatory interactions directly from sequence.
+
+I also developed GLM-Prior, a genomic language model that predicts TF-gene regulatory interactions directly from sequence.
 GLM-Prior fine-tunes the Nucleotide Transformer to learn regulatory interactions between TFs and their target genes across organisms and cell types.
 These predictions can be used as prior knowledge to constrain downstream GRN inference. 
 My research is supported by the National Science Foundation Graduate Research Fellowship Program (NSF-GRFP).
