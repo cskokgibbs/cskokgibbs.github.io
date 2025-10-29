@@ -31,7 +31,7 @@ Outside of research, I enjoy training for marathons, cooking, photography, trave
 Skok Gibbs, C; Chen, A; Bonneau, R; Cho, K.
 GLM-Prior: A Genomic Language Model for Sequence-Derived Prior Knowledge in GRN Inference.
 NeurIPs (2025) 2nd Workshop on Multi-modal Foundation Models and Large Language Models for Life Science.
-[[Paper](https://openreview.net/forum?id=TIUUcBIuk6)
+[[Paper](https://openreview.net/forum?id=TIUUcBIuk6) |
 [Code](https://github.com/cskokgibbs/GLM-Prior)]
 
 Kim, JH; Skok Gibbs, C; Yun, S; Song, HO; Cho, K. 
