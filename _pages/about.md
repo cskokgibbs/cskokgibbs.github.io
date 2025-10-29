@@ -69,7 +69,7 @@ Nature Technology Feature: Smart software untangles gene regulation in cells (20
 [[Link](https://doi.org/10.1038/d41586-022-02826-1)]
 
 # Teaching
-NYU Center for Data Science Teaching Assistant: Practical Training (2022, 2023, 2024)
+NYU Center for Data Science Section Leader: Practical Training (2022, 2023, 2024)
 
 # Volunteering
 Co-organizer for NYU AI School 2023 [[Link](https://nyu-mll.github.io/nyu-ai-school-2023/)]
