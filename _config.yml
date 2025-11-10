@@ -101,8 +101,10 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/claudia-skok-gibbs-3a8905104/"
   orcid            : "https://orcid.org/0000-0002-6360-6128"
+  huggingface      : "https://huggingface.co/cskokgibbs"
+  wandb            : "https://wandb.ai/csg337"
   pinterest        :
   soundcloud       :
   stackoverflow    :
